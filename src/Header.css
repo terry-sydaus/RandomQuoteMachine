@@ -1,0 +1,13 @@
+/* Header.css */
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100px; */
+  /* border-bottom: solid 1px grey; */
+}
+
+header h1 {
+  padding: 1rem;
+  font-size: 2rem;
+}
